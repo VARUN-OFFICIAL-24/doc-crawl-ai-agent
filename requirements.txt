@@ -1,0 +1,14 @@
+aiohttp
+beautifulsoup4
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+chromadb
+streamlit
+python-dotenv
+openai
+torch
+transformers
+fastapi
+pydantic-ai
